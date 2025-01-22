@@ -1,0 +1,29 @@
+PYPEL - SISTEMA DE GERENCIAMENTO DE PAPELARIA 
+VERSÃO 0.01 - sistema de autenticação concluído - 22/01/2025
+
+https://github.com/EricFelipeSantos/pypel
+Eric Felipe Santos
+ericfelipesantos2004@gmail.com
+
+1. ABNT
+SANTOS, Eric F. PYPEL - Sistema de Gerenciamento de Papelaria
+[S. l.]: [s. n.], Disponível em: https://github.com/EricFelipeSantos/pypel
+Acesso em: [data de acesso]
+
+2. IEEE
+E. F. SANTOS, "PYPEL - Sistema de Gerenciamento de Papelaria" [online].
+Disponível em: https://github.com/EricFelipeSantos/pypel
+[Acesso em: dia, mes, ano]
+
+3. APA
+SANTOS, E. F. (2025). PYPEL - Sistema de Gerenciamento de Papelaria.
+Acesso em: [data de acesso], de https://github.com/EricFelipeSantos/pypel
+
+4. BibTeX
+@misc{Eric2025pypel,
+    author: {Santos, Eric Felipe}
+    title: {PYPEL - Sistema de Gerenciamento de Papelaria}
+    year: {2025}
+    howpublished: {\url{https://github.com/EricFelipeSantos/pypel}}
+    note: {Acesso em: [data de acesso]}
+}
